@@ -7,22 +7,22 @@
     display: grid;
 }
 
-:root .login-popup-title{
+/* :root .login-popup-title{
     color: white;
 }
 
 .lightcolors .login-popup-title{
     color: black;
-}
+} */
 
 
-:root .login-popup-container {
+ /* :root .login-popup-container {
     background-color: var(--body-color);
-}
+} */
 
-.lightcolors .login-popup-container {
+/* .lightcolors .login-popup-container {
     background-color: white; 
-}
+}  */
 
 .continuee{
     position: relative;
